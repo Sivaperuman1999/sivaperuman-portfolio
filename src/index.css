@@ -473,3 +473,30 @@ h4 {
     transform: translateY(0);
   }
 }
+
+@media (max-width: 768px) {
+  #root {
+    padding: 2rem 1.5rem;
+  }
+  .portfolio-container {
+    gap: 4rem;
+  }
+  .bento-card {
+    padding: 2rem;
+  }
+  .project-content {
+    padding: 2rem;
+  }
+  .section-title {
+    font-size: 2rem;
+  }
+  .hero-title {
+    font-size: 3rem;
+  }
+  .hero-subtitle {
+    font-size: 1.2rem;
+  }
+  .project-visual {
+    min-height: 200px;
+  }
+}

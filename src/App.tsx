@@ -42,7 +42,7 @@ function App() {
       <div className="portfolio-container" ref={containerRef}>
         <section className="hero-section">
           <div className="glitch-wrapper">
-            <h1 className="hero-title">Sivaperuman Elumalai</h1>
+            <h1 className="hero-title">Sivaperuman E</h1>
             <h2 className="hero-subtitle">Frontend Engineer/ MERN Stack Developer.</h2>
           </div>
           <div className="social-links" style={{flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center'}}>
